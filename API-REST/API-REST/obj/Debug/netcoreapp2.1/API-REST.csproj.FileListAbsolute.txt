@@ -1,0 +1,14 @@
+C:\Users\artho\Desktop\RESTAPI\API-REST\API-REST\API-REST\bin\Debug\netcoreapp2.1\API-REST.deps.json
+C:\Users\artho\Desktop\RESTAPI\API-REST\API-REST\API-REST\bin\Debug\netcoreapp2.1\API-REST.runtimeconfig.json
+C:\Users\artho\Desktop\RESTAPI\API-REST\API-REST\API-REST\bin\Debug\netcoreapp2.1\API-REST.runtimeconfig.dev.json
+C:\Users\artho\Desktop\RESTAPI\API-REST\API-REST\API-REST\bin\Debug\netcoreapp2.1\API-REST.dll
+C:\Users\artho\Desktop\RESTAPI\API-REST\API-REST\API-REST\bin\Debug\netcoreapp2.1\API-REST.pdb
+C:\Users\artho\Desktop\RESTAPI\API-REST\API-REST\API-REST\obj\Debug\netcoreapp2.1\API-REST.csprojAssemblyReference.cache
+C:\Users\artho\Desktop\RESTAPI\API-REST\API-REST\API-REST\obj\Debug\netcoreapp2.1\API-REST.csproj.CoreCompileInputs.cache
+C:\Users\artho\Desktop\RESTAPI\API-REST\API-REST\API-REST\obj\Debug\netcoreapp2.1\API-REST.RazorAssemblyInfo.cache
+C:\Users\artho\Desktop\RESTAPI\API-REST\API-REST\API-REST\obj\Debug\netcoreapp2.1\API-REST.RazorAssemblyInfo.cs
+C:\Users\artho\Desktop\RESTAPI\API-REST\API-REST\API-REST\obj\Debug\netcoreapp2.1\API-REST.AssemblyInfoInputs.cache
+C:\Users\artho\Desktop\RESTAPI\API-REST\API-REST\API-REST\obj\Debug\netcoreapp2.1\API-REST.AssemblyInfo.cs
+C:\Users\artho\Desktop\RESTAPI\API-REST\API-REST\API-REST\obj\Debug\netcoreapp2.1\API-REST.RazorTargetAssemblyInfo.cache
+C:\Users\artho\Desktop\RESTAPI\API-REST\API-REST\API-REST\obj\Debug\netcoreapp2.1\API-REST.dll
+C:\Users\artho\Desktop\RESTAPI\API-REST\API-REST\API-REST\obj\Debug\netcoreapp2.1\API-REST.pdb
